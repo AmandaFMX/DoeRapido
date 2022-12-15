@@ -94,7 +94,11 @@ const styles= StyleSheet.create({
         width: 295,
         height: 51,
         left: 54,
+<<<<<<< HEAD
         top: 80
+=======
+        top: 400
+>>>>>>> da9703c4b7972425ef3b06302e6575d96978052f
     },
 
     registerText:{
@@ -103,7 +107,11 @@ const styles= StyleSheet.create({
         left: 27.05,
         color:'#2c2f3f',
         marginLeft:20,
+<<<<<<< HEAD
         top:80,
+=======
+        top:203,
+>>>>>>> da9703c4b7972425ef3b06302e6575d96978052f
         zIndex: -50,   
     },
        
@@ -114,7 +122,11 @@ const styles= StyleSheet.create({
         left: 27.05,
         color:'#A6ABB0',
         marginLeft:20,
+<<<<<<< HEAD
         top:100,
+=======
+        top:210,
+>>>>>>> da9703c4b7972425ef3b06302e6575d96978052f
         zIndex: -50,   
     },
        
@@ -129,7 +141,11 @@ const styles= StyleSheet.create({
         borderWidth: 1,
         borderColor:'#E8E6EA',
         borderRadius: 15,
+<<<<<<< HEAD
         top:95,
+=======
+        top:200,
+>>>>>>> da9703c4b7972425ef3b06302e6575d96978052f
         alignItems: 'center',
         justifyContent: 'center',
         marginLeft:30,
@@ -145,7 +161,11 @@ const styles= StyleSheet.create({
         borderRadius:15,
         width: 231,
         height: 45,
+<<<<<<< HEAD
         top:450,
+=======
+        top:580,
+>>>>>>> da9703c4b7972425ef3b06302e6575d96978052f
         left:83,
         alignItems: 'center',
         justifyContent: 'center',
