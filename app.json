@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "expo": {
     "name": "DoeRapido",
@@ -31,3 +32,38 @@
     }
   }
 }
+=======
+{
+  "expo": {
+    "name": "DoeRapido",
+    "slug": "DoeRapido",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/img/cel-icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/img/splashNew.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#fff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/img/cel-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/img/favicon.png"
+    }
+  }
+}
+>>>>>>> ceaf7243a423aa1ccaf9962bd796833e212d1696
