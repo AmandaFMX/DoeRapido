@@ -7,9 +7,9 @@
     "icon": "./assets/img/cel-icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/img/splashnew.png",
+      "image": "./assets/img/splashNew.png",
       "resizeMode": "cover",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#fff"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -22,12 +22,12 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/img/cel-icon.png",
         "backgroundColor": "#FFFFFF"
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/img/favicon.png"
     }
   }
 }
